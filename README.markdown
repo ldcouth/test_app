@@ -1,0 +1,1 @@
+This is test application created by Linda Dcouth to learn RoR
